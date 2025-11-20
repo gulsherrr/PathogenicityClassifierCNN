@@ -48,3 +48,23 @@ Loaded balanced variant windows from chromosomes 1, 2, 3, and 22 (~400k samples)
 Built BetterCNNv2, a deeper 1D-CNN with larger filters and more channels.
 Trained for 15 epochs and produced clean training-loss and validation-AUROC curves.
 Final validation AUROC: 0.81.
+
+Key Features
+
+End-to-end variant classification pipeline
+
+DNA sequence extraction from multiple chromosomes
+
+201-bp window context per variant
+
+Custom one-hot encoding implementation
+
+PyTorch Datasets, DataLoaders, and training loops
+
+Custom multi-layer 1D-CNN architectures
+
+Balanced sampling of pathogenic vs benign variants
+
+GPU-accelerated training on real genomic data
+
+Clear evaluation metrics (loss, AUROC, prediction distributions)
