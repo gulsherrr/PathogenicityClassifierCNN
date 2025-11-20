@@ -49,6 +49,8 @@ Built BetterCNNv2, a deeper 1D-CNN with larger filters and more channels.
 Trained for 15 epochs and produced clean training-loss and validation-AUROC curves.
 Final validation AUROC: 0.81.
 
+
+
 Key Features
 
 End-to-end variant classification pipeline
@@ -68,3 +70,21 @@ Balanced sampling of pathogenic vs benign variants
 GPU-accelerated training on real genomic data
 
 Clear evaluation metrics (loss, AUROC, prediction distributions)
+
+
+
+What I Learned
+
+How deep learning models process raw genomic sequences
+
+How to encode DNA for machine learning (one-hot, integer maps)
+
+How to build and train 1D CNNs for sequence data
+
+The importance of class balancing and stratification
+
+How to work with large biological datasets efficiently
+
+How AUROC reflects ranking performance across classes
+
+How to leverage GPUs to accelerate genomics research
