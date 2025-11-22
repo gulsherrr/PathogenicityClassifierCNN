@@ -1,0 +1,9 @@
+chrom,pos,ref,alt,label
+chr11,27658369,G,A,benign
+chr1,10123,A,G,pathogenic
+chr11,27658370,C,T,benign
+chr7,5501234,T,C,pathogenic
+chr3,992211,G,A,benign
+chr11,27658410,C,T,pathogenic
+chr2,765432,A,G,benign
+chr11,27658555,G,A,pathogenic

@@ -1,0 +1,9 @@
+chrom,pos,consequence,gene
+chr11,27658369,missense,BDNF
+chr1,10123,synonymous,GENE1
+chr11,27658370,intron,BDNF
+chr7,5501234,missense,CTNNA2
+chr3,992211,5_prime_UTR,GENE3
+chr11,27658410,nonsense,BDNF
+chr2,765432,synonymous,GENE2
+chr11,27658555,intron,BDNF
