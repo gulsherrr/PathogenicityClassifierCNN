@@ -1,5 +1,6 @@
 # PathogenicityClassifierCNN
 My first full deep-learning genomics project: a CNN trained on multi-chromosome sequence windows to predict pathogenic vs benign variants. Built from scratch as a learning experiment—part scientific exploration, part vibe-coded ambition.
+
 This repository documents my first complete deep-learning genomics project: building an end-to-end pipeline that predicts whether a genetic variant is benign or pathogenic using only its 201-bp DNA sequence context.
 What began as a learning exercise evolved into a full experimental workflow spanning data engineering, sequence encoding, model building, GPU training, and evaluation across multiple chromosomes.
 
